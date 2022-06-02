@@ -1,0 +1,36 @@
+
+.contain {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    min-height: 100%;
+    background-color: #212121;
+    height: 100%;
+}
+
+.contact-btn {
+    margin-top: 30px;
+    /* margin-bottom: 70px; */
+    height: 75px;
+    width: 250px;
+    font-family: 'Nexa', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    letter-spacing: 3px;
+    border: none;
+    background-color: #ffffff;
+}
+
+.smk-logo {
+    width: 1360px;
+    height: 579px;
+}
+
+.home-footer {
+    background-image: url("../../assets/smkFooter.png");
+    height: 120px;
+    text-align: center;
+    min-width: 100%;
+    position: fixed;
+    bottom: 0px;
+}

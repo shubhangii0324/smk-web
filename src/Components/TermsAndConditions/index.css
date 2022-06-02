@@ -1,0 +1,50 @@
+.contain {
+    background-color: #212121;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    min-height: 100%;
+}
+
+.tnc-title {
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 35px;
+    font-size: 43px;
+    letter-spacing: 3px;
+    font-family: 'Nexa', sans-serif;
+    font-weight: 500;
+}
+
+.tnc-main-content {
+    min-height: 500px;
+}
+
+.tnc-sub-content {
+    background-color: #ffffff;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 700px;
+    overflow: hidden;
+    overflow-y: scroll;
+    margin-bottom: 70px;
+    padding: 20px 60px;
+}
+
+.tnc-headings {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bold;
+}
+
+.tnc-content {
+    font-family: 'Nunito Sans', sans-serif;
+    line-height: 1.5rem;
+    font-size: 17px;
+}
+
+.tnc-links {
+    text-decoration: none;
+}

@@ -1,0 +1,30 @@
+.footer {
+    /* margin-top: 95px; */
+    background-image: url("../../assets/smkFooter.png");
+    height: 120px;
+    text-align: center;
+    min-width: 100%;
+    /* position: fixed; */
+    /* bottom: 0px; */
+}
+
+.footer-content{
+    color: #ffffff;
+    margin-top: 55px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+    font-family: 'Nexa', sans-serif;
+    font-weight: bold;
+}
+
+.footer-content-sub {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footer-content-sub:hover {
+    color: #ffffff;
+  }
